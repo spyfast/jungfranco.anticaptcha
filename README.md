@@ -1,4 +1,4 @@
-# jungfranco.anticaptcha
+# Jung Franco AntiCaptcha
 
 [Telegram](https://t.me/jungfranco)
 [VK](https://vk.com/spyfast)
